@@ -2,7 +2,7 @@
 
 This app's purpose is to merge some key information to help local, small farms in Brazil.
 
-it should:
+It should:
 
 DONE 
 1- Get Regional weather information from openweahter website and use a langraph agent to analyse the weather for the next few days. It should check for humidity, rain, wind, temperature  etc. Get the agent to make a report.
