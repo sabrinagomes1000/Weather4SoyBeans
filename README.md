@@ -19,4 +19,4 @@ TO-DO ---
 TO-DO ---
 5-Put all into an android app for local farmers 
 
-6- probably in 2027... integrate all this information with CAR (environment reports) and dados de georeferencia.
+6- probably in 2027... integrate all this information with CAR (environment reports) e dados de georeferencia.
