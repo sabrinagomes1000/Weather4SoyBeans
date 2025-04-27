@@ -5,10 +5,10 @@ This app's purpose is to merge some key information to help local, small farms i
 it should:
 
 DONE 
-1- Get Regional weather information from openweahter website and use a langraph agent to analyse the weather for the next few days. It should check for humidity, rain, wind, temperature  etc. Get the agent to make a report. DONE
+1- Get Regional weather information from openweahter website and use a langraph agent to analyse the weather for the next few days. It should check for humidity, rain, wind, temperature  etc. Get the agent to make a report.
 
 IN PROGRESS
-2- Get local information with an API from a local IoT weather station - in Progress
+2- Get local information with an API from a local IoT weather station
 
 TO DO
 3- Get sattelite imagery with soil humidity and other parameters from an area (poligon) from the website : agromonitoring - in progress get NDVI, EVI, EVI2, NRI  and weather
